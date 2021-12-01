@@ -107,3 +107,10 @@ body {
   display: flex;
   justify-content: flex-start;
 }
+
+.main-header {
+  background: #242323;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
